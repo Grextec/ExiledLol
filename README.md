@@ -1,11 +1,11 @@
 <h1>
-  <img src="https://files.catbox.moe/m0iopx.ico" width="48" height="48" style="vertical-align: center;">
+  <img src="https://files.catbox.moe/m0iopx.ico" width="48" height="48" style="vertical-align: middle;">
   ExiledLol
 </h1>
 
 What is ExiledLol? 
 
-ExiledLol is a skin changer and manager for league of legends.
+ExiledLol is a custom skin changer and manager for league of legends.
 
 <h2>Features</h2>
 
