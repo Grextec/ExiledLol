@@ -7,6 +7,14 @@ What is ExiledLol?
 
 ExiledLol is a custom skin changer and manager for league of legends.
 
+<div align="center">
+  <img src="https://files.catbox.moe/2dajne.PNG" alt="Skins Tab"/>
+</div>
+
+<div align="center">
+  <img src="https://files.catbox.moe/qoy7fr.PNG" alt="Mods Tab"/>
+</div>
+
 <h2>Features</h2>
 
 <h3>🛠️ General Features</h3>
@@ -37,7 +45,7 @@ More information to be announced soon. If you are interested, please join the [D
 > [!IMPORTANT]
 > **This application will be paid.**  
 For a limited time, a **limited number of users** will receive **free access** by becoming **beta testers**.  
-Details on how to apply will be announced in the [**Discord Server**](https://discord.gg/NwsRWKQadv).
+Details on how to apply can be found in the [**Discord Server**](https://discord.gg/NwsRWKQadv).
 
 
 ## Disclaimer
