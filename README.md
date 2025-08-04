@@ -7,6 +7,16 @@ What is ExiledLol?
 
 ExiledLol is a custom skin changer and manager for league of legends.
 
+It uses its own dedicated skin repository, completely separate from the alternatives.
+
+What the repository offers
+<ul>
+<li>All skins are supported ✓</li>
+<li>Full Exalted Skin support ✓</li>
+<li>Full Form support ✓</li>
+<li>Full Chroma support ✓</li>
+</ul>
+
 <div align="center">
   <img src="https://files.catbox.moe/2dajne.PNG" alt="Skins Tab"/>
 </div>
@@ -21,9 +31,10 @@ ExiledLol is a custom skin changer and manager for league of legends.
 <ul>
   <li>Auto Updating Skin Files</li>
   <li>Auto Updating Remote Mod Files</li>
-  <li>Auto Injection with auto detection of skin changes pre-game launch</li>
+  <li>Auto Injection with smart skin & champ selection change recognition</li>
   <li>Supports all league game modes</li>
-  <li>Profiles Support – Have different profiles for different playstyles for both mods and skins 😄</li>
+  <li>Profiles Support – Create and switch between different profiles tailored to different playstyles, with separate profiles for both mods and skins</li>
+  <li>Theme support - A wide selection of themes are available to switch between</li>
 </ul>
 
 <hr>
@@ -34,19 +45,12 @@ ExiledLol is a custom skin changer and manager for league of legends.
   <li>Selection state is tracked</li>
   <li>Filter champions by selected/unselected skins to manage more easily</li>
   <li> Horizontal or Vertical layout </li>
+  <li>Overlay - Manage your skins inside of champ select without having to worry about switching windows</li>
 </ul>
-
-
 
 ...and much more!
 
-More information to be announced soon. If you are interested, please join the [Discord Server](https://discord.gg/NwsRWKQadv) to show your interest. 
-
-> [!IMPORTANT]
-> **This application will be paid.**  
-For a limited time, a **limited number of users** will receive **free access** by becoming **beta testers**.  
-Details on how to apply can be found in the [**Discord Server**](https://discord.gg/NwsRWKQadv).
-
+Our [Discord Server](https://discord.gg/NwsRWKQadv) 
 
 ## Disclaimer
 
