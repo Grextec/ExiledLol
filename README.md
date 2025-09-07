@@ -27,11 +27,11 @@ What the repository offers
 
 Themes
 
-https://files.catbox.moe/9yv1v8.gif
+![](https://files.catbox.moe/9yv1v8.gif)
 
 Quick Selection Overlay
 
-https://files.catbox.moe/45dca1.mp4
+![](https://files.catbox.moe/45dca1.mp4)
 
 
 <h2>Features</h2>
