@@ -27,7 +27,7 @@ What the repository offers
 
 **Themes**
 
-https://github.com/user-attachments/assets/f7fa4da4-651c-47c1-81cb-def3ea288d35
+![](https://github.com/user-attachments/assets/c3097618-d565-40db-b2b3-0177267bc65e)
 
 **Quick Selection Overlay**
 
