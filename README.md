@@ -25,14 +25,13 @@ What the repository offers
   <img src="https://files.catbox.moe/qoy7fr.PNG" alt="Mods Tab"/>
 </div>
 
-Themes
+**Themes**
 
-![](https://files.catbox.moe/9yv1v8.gif)
+https://github.com/user-attachments/assets/f7fa4da4-651c-47c1-81cb-def3ea288d35
 
-Quick Selection Overlay
+**Quick Selection Overlay**
 
-![](https://files.catbox.moe/45dca1.mp4)
-
+https://github.com/user-attachments/assets/968ed98f-439d-4247-8918-f0e23331a194
 
 <h2>Features</h2>
 
